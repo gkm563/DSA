@@ -1,4 +1,4 @@
-# 📘 DSA Learning by GKM
+# DSA Learning by GKM
 
 This repo tracks my Data Structures & Algorithms journey using C language.  
 Started alongside my college syllabus and online mentors with  Shraddha Khapra.
@@ -10,7 +10,7 @@ Started alongside my college syllabus and online mentors with  Shraddha Khapra.
 
 ---
 
-## 📌 Created by
+##  Created by
 
 **Gautam Kumar Maurya (GKM)**  
 #gkm563 | India 🇮🇳
